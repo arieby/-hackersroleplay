@@ -1,0 +1,39 @@
+[
+  {
+    "name": "rizwan3d",
+    "master": true,
+    "password_hash": "$2a$11$z7W5oM82xCocWjNFlAD6yeYugoHBYgTj0Mv5HLsoOggJj.xDxgsym",
+    "providers": {
+      "citizenfx": {
+        "id": "rizwan3d",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/1613392",
+          "name": "rizwan3d",
+          "profile": "https://forum.cfx.re/u/rizwan3d",
+          "picture": "https://avatars.discourse.org/v4/letter/r/ce7236/256.png",
+          "sub": "cc37352e0633745b1522c200190417aff806efc7bd534824cf28e835a8a60b4b"
+        },
+        "identifier": "fivem:1613392"
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "pvrpadmin",
+    "master": false,
+    "password_hash": "$2a$11$qcQXEHtsoMUOL0dt9IgPSecFRAFifhz3ND7CAUKrGVUY2Q/OPQpuy",
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Deathhunterreact",
+    "master": false,
+    "password_hash": "$2a$11$R6EcAqXAr2wue1pyQa1lvusICaMRoVcSjSFolg1j8VSs.r1zD0yfa",
+    "providers": {},
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

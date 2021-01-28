@@ -1,0 +1,1058 @@
+
+================================================================
+======== FXServer starting - 1/25/2021, 7:47:56 PM
+================================================================
+Creating script environments for _cfx_internal
+Found new resource chicken - extra - script in C:/Q9\tufokuServ/resources//chicken - extra - script
+Found new resource monitor in C:\Q9\tufokuServ\citizen/system_resources//monitor
+Found new resource webadmin in C:\Q9\tufokuServ\citizen/system_resources//webadmin
+Found new resource blackjack in C:/Q9\tufokuServ/resources//[casinopack]/blackjack
+Found new resource cassino_props in C:/Q9\tufokuServ/resources//[casinopack]/cassino_props
+Found new resource ch3_04 in C:/Q9\tufokuServ/resources//[casinopack]/ch3_04
+Found new resource ch3_08 in C:/Q9\tufokuServ/resources//[casinopack]/ch3_08
+Found new resource ch3_12 in C:/Q9\tufokuServ/resources//[casinopack]/ch3_12
+Found new resource ch3_additions in C:/Q9\tufokuServ/resources//[casinopack]/ch3_additions
+Found new resource ch3_lod in C:/Q9\tufokuServ/resources//[casinopack]/ch3_lod
+Found new resource ch3_occl in C:/Q9\tufokuServ/resources//[casinopack]/ch3_occl
+Found new resource ch3_rd1a in C:/Q9\tufokuServ/resources//[casinopack]/ch3_rd1a
+Found new resource cityhills_03 in C:/Q9\tufokuServ/resources//[casinopack]/cityhills_03
+Found new resource cityhills_03_metadata in C:/Q9\tufokuServ/resources//[casinopack]/cityhills_03_metadata
+Found new resource pNotify in C:/Q9\tufokuServ/resources//[casinopack]/pNotify
+Found new resource qb-blackjack in C:/Q9\tufokuServ/resources//[casinopack]/qb-blackjack
+Found new resource qb-casino in C:/Q9\tufokuServ/resources//[casinopack]/qb-casino
+Found new resource ruletka in C:/Q9\tufokuServ/resources//[casinopack]/ruletka
+Found new resource sloty in C:/Q9\tufokuServ/resources//[casinopack]/sloty
+Found new resource vwdlc_int_01 in C:/Q9\tufokuServ/resources//[casinopack]/vwdlc_int_01
+Found new resource xmas in C:/Q9\tufokuServ/resources//[christmas]/xmas
+Found new resource async in C:/Q9\tufokuServ/resources//[cores]/async
+Found new resource esx_menu_default in C:/Q9\tufokuServ/resources//[cores]/esx_menu_default
+Found new resource esx_menu_dialog in C:/Q9\tufokuServ/resources//[cores]/esx_menu_dialog
+Found new resource esx_menu_list in C:/Q9\tufokuServ/resources//[cores]/esx_menu_list
+Found new resource es_extended in C:/Q9\tufokuServ/resources//[cores]/es_extended
+Found new resource ghmattimysql in C:/Q9\tufokuServ/resources//[cores]/ghmattimysql
+Found new resource mysql-async in C:/Q9\tufokuServ/resources//[cores]/mysql-async
+Found new resource DiscordBot in C:/Q9\tufokuServ/resources//[Discord]/DiscordBot
+Found new resource DiscordReports in C:/Q9\tufokuServ/resources//[Discord]/DiscordReports
+Found new resource discordrich in C:/Q9\tufokuServ/resources//[Discord]/discordrich
+Found new resource DiscordWhitelist in C:/Q9\tufokuServ/resources//[Discord]/DiscordWhitelist
+Found new resource discord_perms in C:/Q9\tufokuServ/resources//[Discord]/discord_perms
+Found new resource RA1D3R_L0GSYSTEM in C:/Q9\tufokuServ/resources//[Discord]/RA1D3R_L0GSYSTEM
+Found new resource screenshot-basic in C:/Q9\tufokuServ/resources//[local]/screenshot-basic
+Found new resource webpack in C:/Q9\tufokuServ/resources//[local]/webpack
+Found new resource 5q-dumpsters in C:/Q9\tufokuServ/resources//[lux]/5q-dumpsters
+Found new resource 5q-nightclub in C:/Q9\tufokuServ/resources//[lux]/5q-nightclub
+Found new resource 5q-trains in C:/Q9\tufokuServ/resources//[lux]/5q-trains
+Found new resource 5q_streetfight in C:/Q9\tufokuServ/resources//[lux]/5q_streetfight
+Found new resource 99kr-shops in C:/Q9\tufokuServ/resources//[lux]/99kr-shops
+Found new resource aex-bar in C:/Q9\tufokuServ/resources//[lux]/aex-bar
+Found new resource aik_submarina in C:/Q9\tufokuServ/resources//[lux]/aik_submarina
+Found new resource allcity_wallet in C:/Q9\tufokuServ/resources//[lux]/allcity_wallet
+Found new resource bb-dices in C:/Q9\tufokuServ/resources//[lux]/bb-dices
+Found new resource bb-hud in C:/Q9\tufokuServ/resources//[lux]/bb-hud
+Found new resource bodycam in C:/Q9\tufokuServ/resources//[lux]/bodycam
+Found new resource BodyDragger in C:/Q9\tufokuServ/resources//[lux]/BodyDragger
+Resource loading for BodyDragger failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[lux]/BodyDragger/__resource.lua.
+Found new resource brakediscs in C:/Q9\tufokuServ/resources//[lux]/brakediscs
+Found new resource brky-trash in C:/Q9\tufokuServ/resources//[lux]/brky-trash
+Found new resource car-scooter in C:/Q9\tufokuServ/resources//[lux]/car-scooter
+Found new resource carcontrol in C:/Q9\tufokuServ/resources//[lux]/carcontrol
+Found new resource carremote in C:/Q9\tufokuServ/resources//[lux]/carremote
+Found new resource carry in C:/Q9\tufokuServ/resources//[lux]/carry
+Found new resource cash_bossmenu in C:/Q9\tufokuServ/resources//[lux]/cash_bossmenu
+Found new resource cash_gangmenu in C:/Q9\tufokuServ/resources//[lux]/cash_gangmenu
+Found new resource cd_keymaster in C:/Q9\tufokuServ/resources//[lux]/cd_keymaster
+Found new resource chairbed in C:/Q9\tufokuServ/resources//[lux]/chairbed
+Found new resource ChairBedSystem in C:/Q9\tufokuServ/resources//[lux]/ChairBedSystem
+Found new resource cinema-main in C:/Q9\tufokuServ/resources//[lux]/cinema-main
+Found new resource cokelab in C:/Q9\tufokuServ/resources//[lux]/cokelab
+Found new resource cron in C:/Q9\tufokuServ/resources//[lux]/cron
+Found new resource dashcam in C:/Q9\tufokuServ/resources//[lux]/dashcam
+Found new resource datacrack in C:/Q9\tufokuServ/resources//[lux]/datacrack
+Found new resource DeathCam in C:/Q9\tufokuServ/resources//[lux]/DeathCam
+Found new resource dpclothing in C:/Q9\tufokuServ/resources//[lux]/dpclothing
+Found new resource dpemotes in C:/Q9\tufokuServ/resources//[lux]/dpemotes
+Found new resource drones in C:/Q9\tufokuServ/resources//[lux]/drones
+Found new resource drones_stream in C:/Q9\tufokuServ/resources//[lux]/drones_stream
+Found new resource drp_clothes in C:/Q9\tufokuServ/resources//[lux]/drp_clothes
+Found new resource drugshells in C:/Q9\tufokuServ/resources//[lux]/drugshells
+Found new resource el_business in C:/Q9\tufokuServ/resources//[lux]/el_business
+Found new resource esx_civlife_illegalchop in C:/Q9\tufokuServ/resources//[lux]/esx_civlife_illegalchop
+Found new resource esx_ems_cad in C:/Q9\tufokuServ/resources//[lux]/esx_ems_cad
+Found new resource es_better_carwash in C:/Q9\tufokuServ/resources//[lux]/es_better_carwash
+Found new resource fivem-ragdoll in C:/Q9\tufokuServ/resources//[lux]/fivem-ragdoll
+Found new resource fivemturk-npcfix in C:/Q9\tufokuServ/resources//[lux]/fivemturk-npcfix
+Found new resource Frag-gunheist in C:/Q9\tufokuServ/resources//[lux]/Frag-gunheist
+Found new resource Frag-weed in C:/Q9\tufokuServ/resources//[lux]/Frag-weed
+Found new resource ft-repair in C:/Q9\tufokuServ/resources//[lux]/ft-repair
+Found new resource generic_texture_renderer_gfx in C:/Q9\tufokuServ/resources//[lux]/generic_texture_renderer_gfx
+Found new resource gmx_madamnazar in C:/Q9\tufokuServ/resources//[lux]/gmx_madamnazar
+Found new resource grenadelauncher_lesslethal in C:/Q9\tufokuServ/resources//[lux]/grenadelauncher_lesslethal
+Found new resource handsup in C:/Q9\tufokuServ/resources//[lux]/handsup
+Found new resource harybo_litter in C:/Q9\tufokuServ/resources//[lux]/harybo_litter
+Found new resource InteractSound in C:/Q9\tufokuServ/resources//[lux]/InteractSound
+Found new resource Knock-out-Script in C:/Q9\tufokuServ/resources//[lux]/Knock-out-Script
+Found new resource kwk-boombox in C:/Q9\tufokuServ/resources//[lux]/kwk-boombox
+Found new resource loaf_bowling in C:/Q9\tufokuServ/resources//[lux]/loaf_bowling
+Found new resource loaf_tv in C:/Q9\tufokuServ/resources//[lux]/loaf_tv
+Found new resource lotto in C:/Q9\tufokuServ/resources//[lux]/lotto
+Found new resource lux_vehcontrol in C:/Q9\tufokuServ/resources//[lux]/lux_vehcontrol
+Found new resource matif_headlights in C:/Q9\tufokuServ/resources//[lux]/matif_headlights
+Found new resource mdt in C:/Q9\tufokuServ/resources//[lux]/mdt
+Found new resource meta_libs in C:/Q9\tufokuServ/resources//[lux]/meta_libs
+Found new resource ms-fakeplate in C:/Q9\tufokuServ/resources//[lux]/ms-fakeplate
+Found new resource mugshot in C:/Q9\tufokuServ/resources//[lux]/mugshot
+Found new resource mythic_notify in C:/Q9\tufokuServ/resources//[lux]/mythic_notify
+Found new resource mythic_progbar in C:/Q9\tufokuServ/resources//[lux]/mythic_progbar
+Found new resource nerv_ads in C:/Q9\tufokuServ/resources//[lux]/nerv_ads
+Found new resource nerv_dark in C:/Q9\tufokuServ/resources//[lux]/nerv_dark
+Found new resource nerv_mecha in C:/Q9\tufokuServ/resources//[lux]/nerv_mecha
+Found new resource np-menu in C:/Q9\tufokuServ/resources//[lux]/np-menu
+Found new resource np-taskbar in C:/Q9\tufokuServ/resources//[lux]/np-taskbar
+Found new resource np-truckrobbery in C:/Q9\tufokuServ/resources//[lux]/np-truckrobbery
+Found new resource npclocation in C:/Q9\tufokuServ/resources//[lux]/npclocation
+Found new resource npcs in C:/Q9\tufokuServ/resources//[lux]/npcs
+Found new resource og-fishing in C:/Q9\tufokuServ/resources//[lux]/og-fishing
+Found new resource op-guns in C:/Q9\tufokuServ/resources//[lux]/op-guns
+Found new resource oxy-runs-qbus in C:/Q9\tufokuServ/resources//[lux]/oxy-runs-qbus
+Found new resource pablito_silownia in C:/Q9\tufokuServ/resources//[lux]/pablito_silownia
+Found new resource panzar-scoreboard in C:/Q9\tufokuServ/resources//[lux]/panzar-scoreboard
+Found new resource pk_woodcutter in C:/Q9\tufokuServ/resources//[lux]/pk_woodcutter
+Found new resource pogressBar in C:/Q9\tufokuServ/resources//[lux]/pogressBar
+Found new resource policeform in C:/Q9\tufokuServ/resources//[lux]/policeform
+Found new resource porth_ai in C:/Q9\tufokuServ/resources//[lux]/porth_ai
+Found new resource progressbar in C:/Q9\tufokuServ/resources//[lux]/progressbar
+Found new resource progressBars in C:/Q9\tufokuServ/resources//[lux]/progressBars
+Found new resource prospecting in C:/Q9\tufokuServ/resources//[lux]/prospecting
+Found new resource PushOver in C:/Q9\tufokuServ/resources//[lux]/PushOver
+Found new resource qb-bicyle in C:/Q9\tufokuServ/resources//[lux]/qb-bicyle
+Found new resource qb-carbomb in C:/Q9\tufokuServ/resources//[lux]/qb-carbomb
+Found new resource qb-carthief in C:/Q9\tufokuServ/resources//[lux]/qb-carthief
+Found new resource qb-cokeruns in C:/Q9\tufokuServ/resources//[lux]/qb-cokeruns
+Found new resource qb-copmask in C:/Q9\tufokuServ/resources//[lux]/qb-copmask
+Found new resource qb-customs in C:/Q9\tufokuServ/resources//[lux]/qb-customs
+Found new resource qb-drift in C:/Q9\tufokuServ/resources//[lux]/qb-drift
+Found new resource qb-gangs in C:/Q9\tufokuServ/resources//[lux]/qb-gangs
+Found new resource qb-headbag2 in C:/Q9\tufokuServ/resources//[lux]/qb-headbag2
+Found new resource qb-heli in C:/Q9\tufokuServ/resources//[lux]/qb-heli
+Found new resource qb-ikeanervrob in C:/Q9\tufokuServ/resources//[lux]/qb-ikeanervrob
+Found new resource qb-ktackle in C:/Q9\tufokuServ/resources//[lux]/qb-ktackle
+Found new resource qb-lapdance in C:/Q9\tufokuServ/resources//[lux]/qb-lapdance
+Found new resource qb-lesterjob in C:/Q9\tufokuServ/resources//[lux]/qb-lesterjob
+Found new resource qb-location in C:/Q9\tufokuServ/resources//[lux]/qb-location
+Found new resource qb-lockpickcar in C:/Q9\tufokuServ/resources//[lux]/qb-lockpickcar
+Found new resource qb-makeitrain in C:/Q9\tufokuServ/resources//[lux]/qb-makeitrain
+Found new resource qb-market in C:/Q9\tufokuServ/resources//[lux]/qb-market
+Found new resource qb-milkman in C:/Q9\tufokuServ/resources//[lux]/qb-milkman
+Found new resource qb-name in C:/Q9\tufokuServ/resources//[lux]/qb-name
+Found new resource qb-nuclear in C:/Q9\tufokuServ/resources//[lux]/qb-nuclear
+Found new resource qb-pigjob in C:/Q9\tufokuServ/resources//[lux]/qb-pigjob
+Found new resource qb-pizzaruns in C:/Q9\tufokuServ/resources//[lux]/qb-pizzaruns
+Found new resource qb-purge in C:/Q9\tufokuServ/resources//[lux]/qb-purge
+Found new resource qb-pursit in C:/Q9\tufokuServ/resources//[lux]/qb-pursit
+Found new resource qb-security in C:/Q9\tufokuServ/resources//[lux]/qb-security
+Found new resource qb-sellpig in C:/Q9\tufokuServ/resources//[lux]/qb-sellpig
+Found new resource qb-skillz in C:/Q9\tufokuServ/resources//[lux]/qb-skillz
+Found new resource qb-speedcamera in C:/Q9\tufokuServ/resources//[lux]/qb-speedcamera
+Found new resource qb-starbucksjob in C:/Q9\tufokuServ/resources//[lux]/qb-starbucksjob
+Found new resource qb-strippers in C:/Q9\tufokuServ/resources//[lux]/qb-strippers
+Found new resource qb-surfboard in C:/Q9\tufokuServ/resources//[lux]/qb-surfboard
+Found new resource qb-tacos in C:/Q9\tufokuServ/resources//[lux]/qb-tacos
+Found new resource qb-tattooshop_1 in C:/Q9\tufokuServ/resources//[lux]/qb-tattooshop_1
+Found new resource qb-uber in C:/Q9\tufokuServ/resources//[lux]/qb-uber
+Found new resource qb-warehouses in C:/Q9\tufokuServ/resources//[lux]/qb-warehouses
+Found new resource qb-weapondamage in C:/Q9\tufokuServ/resources//[lux]/qb-weapondamage
+Found new resource qb-xp in C:/Q9\tufokuServ/resources//[lux]/qb-xp
+Found new resource qb-yathheist in C:/Q9\tufokuServ/resources//[lux]/qb-yathheist
+Found new resource qb_atmrob in C:/Q9\tufokuServ/resources//[lux]/qb_atmrob
+Found new resource qb_bandana in C:/Q9\tufokuServ/resources//[lux]/qb_bandana
+Found new resource qb_bitcoin in C:/Q9\tufokuServ/resources//[lux]/qb_bitcoin
+Found new resource qb_borrmaskin in C:/Q9\tufokuServ/resources//[lux]/qb_borrmaskin
+Found new resource qb_contract in C:/Q9\tufokuServ/resources//[lux]/qb_contract
+Found new resource qb_GoldCurrency in C:/Q9\tufokuServ/resources//[lux]/qb_GoldCurrency
+Found new resource qb_gym in C:/Q9\tufokuServ/resources//[lux]/qb_gym
+Found new resource qb_headbag in C:/Q9\tufokuServ/resources//[lux]/qb_headbag
+Found new resource qb_mugging in C:/Q9\tufokuServ/resources//[lux]/qb_mugging
+Found new resource Radargun in C:/Q9\tufokuServ/resources//[lux]/Radargun
+Found new resource RC-NewShop in C:/Q9\tufokuServ/resources//[lux]/RC-NewShop
+Found new resource RC-RentCarService in C:/Q9\tufokuServ/resources//[lux]/RC-RentCarService
+Found new resource rdrp_rccars in C:/Q9\tufokuServ/resources//[lux]/rdrp_rccars
+Found new resource ring in C:/Q9\tufokuServ/resources//[lux]/ring
+Found new resource sad-smoke in C:/Q9\tufokuServ/resources//[lux]/sad-smoke
+Found new resource sawu_hookers in C:/Q9\tufokuServ/resources//[lux]/sawu_hookers
+Found new resource scooterRent in C:/Q9\tufokuServ/resources//[lux]/scooterRent
+Found new resource securitycams in C:/Q9\tufokuServ/resources//[lux]/securitycams
+Found new resource sigara-bong in C:/Q9\tufokuServ/resources//[lux]/sigara-bong
+Found new resource sm_darts_modit in C:/Q9\tufokuServ/resources//[lux]/sm_darts_modit
+Found new resource spectatelu in C:/Q9\tufokuServ/resources//[lux]/spectatelu
+Found new resource spotlight in C:/Q9\tufokuServ/resources//[lux]/spotlight
+Found new resource submarinepatoche in C:/Q9\tufokuServ/resources//[lux]/submarinepatoche
+Found new resource t0sic_loadingbar in C:/Q9\tufokuServ/resources//[lux]/t0sic_loadingbar
+Found new resource t1ger_carthief in C:/Q9\tufokuServ/resources//[lux]/t1ger_carthief
+Found new resource t1ger_drugbusiness in C:/Q9\tufokuServ/resources//[lux]/t1ger_drugbusiness
+Found new resource t1ger_drugs in C:/Q9\tufokuServ/resources//[lux]/t1ger_drugs
+Found new resource t1ger_mechanicjob in C:/Q9\tufokuServ/resources//[lux]/t1ger_mechanicjob
+Found new resource tab in C:/Q9\tufokuServ/resources//[lux]/tab
+Found new resource tires in C:/Q9\tufokuServ/resources//[lux]/tires
+Found new resource uates in C:/Q9\tufokuServ/resources//[lux]/uates
+Found new resource urp-mining in C:/Q9\tufokuServ/resources//[lux]/urp-mining
+Found new resource utk_btcHack in C:/Q9\tufokuServ/resources//[lux]/utk_btcHack
+Found new resource utk_fingerprint in C:/Q9\tufokuServ/resources//[lux]/utk_fingerprint
+Found new resource utk_hackdependency in C:/Q9\tufokuServ/resources//[lux]/utk_hackdependency
+Found new resource vir-deathscreen in C:/Q9\tufokuServ/resources//[lux]/vir-deathscreen
+Found new resource watertank in C:/Q9\tufokuServ/resources//[lux]/watertank
+Found new resource xnNightclub in C:/Q9\tufokuServ/resources//[lux]/xnNightclub
+Found new resource yarn in C:/Q9\tufokuServ/resources//[lux]/yarn
+Found new resource qb-admin in C:/Q9\tufokuServ/resources//[qb]/qb-admin
+Found new resource qb-adminOld - 1 - in C:/Q9\tufokuServ/resources//[qb]/qb-adminOld - 1 -
+Found new resource qb-adminOld - 2 - in C:/Q9\tufokuServ/resources//[qb]/qb-adminOld - 2 -
+Found new resource qb-afkkick in C:/Q9\tufokuServ/resources//[qb]/qb-afkkick
+Found new resource qb-anticheat in C:/Q9\tufokuServ/resources//[qb]/qb-anticheat
+Found new resource qb-apartments in C:/Q9\tufokuServ/resources//[qb]/qb-apartments
+Found new resource qb-bankrobbery in C:/Q9\tufokuServ/resources//[qb]/qb-bankrobbery
+Found new resource qb-builderjob in C:/Q9\tufokuServ/resources//[qb]/qb-builderjob
+Found new resource qb-busjob in C:/Q9\tufokuServ/resources//[qb]/qb-busjob
+Found new resource qb-carwash in C:/Q9\tufokuServ/resources//[qb]/qb-carwash
+Found new resource qb-cityhall in C:/Q9\tufokuServ/resources//[qb]/qb-cityhall
+Found new resource qb-clothing in C:/Q9\tufokuServ/resources//[qb]/qb-clothing
+Found new resource qb-commandbinding in C:/Q9\tufokuServ/resources//[qb]/qb-commandbinding
+Found new resource qb-companies in C:/Q9\tufokuServ/resources//[qb]/qb-companies
+Found new resource qb-crafting in C:/Q9\tufokuServ/resources//[qb]/qb-crafting
+Found new resource qb-crypto in C:/Q9\tufokuServ/resources//[qb]/qb-crypto
+Found new resource qb-diving in C:/Q9\tufokuServ/resources//[qb]/qb-diving
+Found new resource qb-doorlock in C:/Q9\tufokuServ/resources//[qb]/qb-doorlock
+Found new resource qb-drugs in C:/Q9\tufokuServ/resources//[qb]/qb-drugs
+Found new resource qb-event in C:/Q9\tufokuServ/resources//[qb]/qb-event
+Found new resource qb-fitbit in C:/Q9\tufokuServ/resources//[qb]/qb-fitbit
+Found new resource qb-fitbit2 in C:/Q9\tufokuServ/resources//[qb]/qb-fitbit2
+Found new resource qb-garages in C:/Q9\tufokuServ/resources//[qb]/qb-garages
+Found new resource qb-garages old in C:/Q9\tufokuServ/resources//[qb]/qb-garages old
+Found new resource qb-garbagejob in C:/Q9\tufokuServ/resources//[qb]/qb-garbagejob
+Found new resource qb-hotdogjob in C:/Q9\tufokuServ/resources//[qb]/qb-hotdogjob
+Found new resource qb-houserobbery in C:/Q9\tufokuServ/resources//[qb]/qb-houserobbery
+Found new resource qb-houses in C:/Q9\tufokuServ/resources//[qb]/qb-houses
+Found new resource qb-houses1 in C:/Q9\tufokuServ/resources//[qb]/qb-houses1
+Found new resource qb-hud in C:/Q9\tufokuServ/resources//[qb]/qb-hud
+Found new resource qb-hud1 in C:/Q9\tufokuServ/resources//[qb]/qb-hud1
+Found new resource qb-hud3 in C:/Q9\tufokuServ/resources//[qb]/qb-hud3
+Found new resource qb-ifruitstore in C:/Q9\tufokuServ/resources//[qb]/qb-ifruitstore
+Found new resource qb-instances in C:/Q9\tufokuServ/resources//[qb]/qb-instances
+Found new resource qb-interior in C:/Q9\tufokuServ/resources//[qb]/qb-interior
+Found new resource qb-inventory in C:/Q9\tufokuServ/resources//[qb]/qb-inventory
+Found new resource qb-jewellery in C:/Q9\tufokuServ/resources//[qb]/qb-jewellery
+Found new resource qb-justice in C:/Q9\tufokuServ/resources//[qb]/qb-justice
+Found new resource qb-keyminigame in C:/Q9\tufokuServ/resources//[qb]/qb-keyminigame
+Found new resource qb-lapraces in C:/Q9\tufokuServ/resources//[qb]/qb-lapraces
+Found new resource qb-laptop in C:/Q9\tufokuServ/resources//[qb]/qb-laptop
+Resource loading for qb-laptop failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[qb]/qb-laptop/__resource.lua.
+Found new resource qb-loading in C:/Q9\tufokuServ/resources//[qb]/qb-loading
+Found new resource qb-lockpick in C:/Q9\tufokuServ/resources//[qb]/qb-lockpick
+Found new resource qb-login in C:/Q9\tufokuServ/resources//[qb]/qb-login
+Found new resource qb-logs in C:/Q9\tufokuServ/resources//[qb]/qb-logs
+Found new resource qb-methlab in C:/Q9\tufokuServ/resources//[qb]/qb-methlab
+Found new resource qb-moneysafe in C:/Q9\tufokuServ/resources//[qb]/qb-moneysafe
+Found new resource qb-multicharacter in C:/Q9\tufokuServ/resources//[qb]/qb-multicharacter
+Found new resource qb-news in C:/Q9\tufokuServ/resources//[qb]/qb-news
+Found new resource qb-occasions in C:/Q9\tufokuServ/resources//[qb]/qb-occasions
+Found new resource qb-pawnshop in C:/Q9\tufokuServ/resources//[qb]/qb-pawnshop
+Found new resource qb-phone_new in C:/Q9\tufokuServ/resources//[qb]/qb-phone_new
+Found new resource qb-pings in C:/Q9\tufokuServ/resources//[qb]/qb-pings
+Found new resource qb-policealerts in C:/Q9\tufokuServ/resources//[qb]/qb-policealerts
+Found new resource qb-printer in C:/Q9\tufokuServ/resources//[qb]/qb-printer
+Found new resource qb-quests in C:/Q9\tufokuServ/resources//[qb]/qb-quests
+Found new resource qb-radialmenu in C:/Q9\tufokuServ/resources//[qb]/qb-radialmenu
+Found new resource qb-radio in C:/Q9\tufokuServ/resources//[qb]/qb-radio
+Found new resource qb-recycle in C:/Q9\tufokuServ/resources//[qb]/qb-recycle
+Found new resource qb-scoreboard in C:/Q9\tufokuServ/resources//[qb]/qb-scoreboard
+Found new resource qb-scrapyard in C:/Q9\tufokuServ/resources//[qb]/qb-scrapyard
+Found new resource qb-shops in C:/Q9\tufokuServ/resources//[qb]/qb-shops
+Found new resource qb-skillbar in C:/Q9\tufokuServ/resources//[qb]/qb-skillbar
+Found new resource qb-smallresources in C:/Q9\tufokuServ/resources//[qb]/qb-smallresources
+Found new resource qb-spawn in C:/Q9\tufokuServ/resources//[qb]/qb-spawn
+Found new resource qb-storerobbery in C:/Q9\tufokuServ/resources//[qb]/qb-storerobbery
+Found new resource qb-streetraces in C:/Q9\tufokuServ/resources//[qb]/qb-streetraces
+Found new resource qb-taxi in C:/Q9\tufokuServ/resources//[qb]/qb-taxi
+Found new resource qb-tow in C:/Q9\tufokuServ/resources//[qb]/qb-tow
+Found new resource qb-traphouses in C:/Q9\tufokuServ/resources//[qb]/qb-traphouses
+Found new resource qb-trucker in C:/Q9\tufokuServ/resources//[qb]/qb-trucker
+Found new resource qb-tunerchip in C:/Q9\tufokuServ/resources//[qb]/qb-tunerchip
+Found new resource qb-vehiclekeys in C:/Q9\tufokuServ/resources//[qb]/qb-vehiclekeys
+Found new resource qb-vehiclerental in C:/Q9\tufokuServ/resources//[qb]/qb-vehiclerental
+Found new resource qb-vehicleshop in C:/Q9\tufokuServ/resources//[qb]/qb-vehicleshop
+Found new resource qb-vehicletuning in C:/Q9\tufokuServ/resources//[qb]/qb-vehicletuning
+Found new resource qb-weapons in C:/Q9\tufokuServ/resources//[qb]/qb-weapons
+Found new resource qb-weathersync in C:/Q9\tufokuServ/resources//[qb]/qb-weathersync
+Found new resource qb-weed in C:/Q9\tufokuServ/resources//[qb]/qb-weed
+Found new resource 3dme in C:/Q9\tufokuServ/resources//[standalone]/3dme
+Found new resource 3doo in C:/Q9\tufokuServ/resources//[standalone]/3doo
+Found new resource addonweapons in C:/Q9\tufokuServ/resources//[standalone]/addonweapons
+Found new resource animations in C:/Q9\tufokuServ/resources//[standalone]/animations
+Found new resource banking in C:/Q9\tufokuServ/resources//[standalone]/banking
+Found new resource bob74_ipl in C:/Q9\tufokuServ/resources//[standalone]/bob74_ipl
+Found new resource clothes in C:/Q9\tufokuServ/resources//[standalone]/clothes
+Found new resource connectqueue in C:/Q9\tufokuServ/resources//[standalone]/connectqueue
+Found new resource diceroll in C:/Q9\tufokuServ/resources//[standalone]/diceroll
+Found new resource els-plus in C:/Q9\tufokuServ/resources//[standalone]/els-plus
+Found new resource hackgame in C:/Q9\tufokuServ/resources//[standalone]/hackgame
+Found new resource handlingeditor in C:/Q9\tufokuServ/resources//[standalone]/handlingeditor
+Found new resource hospital in C:/Q9\tufokuServ/resources//[standalone]/hospital
+Found new resource houses in C:/Q9\tufokuServ/resources//[standalone]/houses
+Found new resource hypnonema in C:/Q9\tufokuServ/resources//[standalone]/hypnonema
+Found new resource interact-sound in C:/Q9\tufokuServ/resources//[standalone]/interact-sound
+Found new resource koil-debug in C:/Q9\tufokuServ/resources//[standalone]/koil-debug
+Found new resource LegacyFuel in C:/Q9\tufokuServ/resources//[standalone]/LegacyFuel
+Found new resource Liberty-pack in C:/Q9\tufokuServ/resources//[standalone]/Liberty-pack
+Found new resource loadingscreen in C:/Q9\tufokuServ/resources//[standalone]/loadingscreen
+Found new resource lscustoms in C:/Q9\tufokuServ/resources//[standalone]/lscustoms
+Found new resource noshuff in C:/Q9\tufokuServ/resources//[standalone]/noshuff
+Found new resource notes in C:/Q9\tufokuServ/resources//[standalone]/notes
+Found new resource playerhostage in C:/Q9\tufokuServ/resources//[standalone]/playerhostage
+Found new resource police in C:/Q9\tufokuServ/resources//[standalone]/police
+Found new resource policeradar in C:/Q9\tufokuServ/resources//[standalone]/policeradar
+Found new resource position in C:/Q9\tufokuServ/resources//[standalone]/position
+Found new resource pradar in C:/Q9\tufokuServ/resources//[standalone]/pradar
+Found new resource prison in C:/Q9\tufokuServ/resources//[standalone]/prison
+Found new resource safecracker in C:/Q9\tufokuServ/resources//[standalone]/safecracker
+Found new resource vMenu in C:/Q9\tufokuServ/resources//[standalone]/vMenu
+Found new resource warmenu in C:/Q9\tufokuServ/resources//[standalone]/warmenu
+Found new resource baseevents in C:/Q9\tufokuServ/resources//[cores]/[fivem]/baseevents
+Found new resource chat in C:/Q9\tufokuServ/resources//[cores]/[fivem]/chat
+Found new resource debug in C:/Q9\tufokuServ/resources//[cores]/[fivem]/debug
+Found new resource fivem in C:/Q9\tufokuServ/resources//[cores]/[fivem]/fivem
+Found new resource fivem-map-hipster in C:/Q9\tufokuServ/resources//[cores]/[fivem]/fivem-map-hipster
+Found new resource hardcap in C:/Q9\tufokuServ/resources//[cores]/[fivem]/hardcap
+Found new resource mapmanager in C:/Q9\tufokuServ/resources//[cores]/[fivem]/mapmanager
+Found new resource NativeUI in C:/Q9\tufokuServ/resources//[cores]/[fivem]/NativeUI
+Found new resource rconlog in C:/Q9\tufokuServ/resources//[cores]/[fivem]/rconlog
+Found new resource sessionmanager in C:/Q9\tufokuServ/resources//[cores]/[fivem]/sessionmanager
+Found new resource spawnmanager in C:/Q9\tufokuServ/resources//[cores]/[fivem]/spawnmanager
+Found new resource qb-core in C:/Q9\tufokuServ/resources//[cores]/[qbus]/qb-core
+Found new resource EnZo_LS in C:/Q9\tufokuServ/resources//[model]/[cars]/EnZo_LS
+Found new resource handling_mod in C:/Q9\tufokuServ/resources//[model]/[cars]/handling_mod
+Found new resource jdmrims in C:/Q9\tufokuServ/resources//[model]/[cars]/jdmrims
+Found new resource empresscrown in C:/Q9\tufokuServ/resources//[model]/[clothes]/empresscrown
+Found new resource empresspack in C:/Q9\tufokuServ/resources//[model]/[clothes]/empresspack
+Found new resource ensart_female_hoodie1 in C:/Q9\tufokuServ/resources//[model]/[clothes]/ensart_female_hoodie1
+Found new resource ensart_male_hoodie1 in C:/Q9\tufokuServ/resources//[model]/[clothes]/ensart_male_hoodie1
+Found new resource ErkekKiyafet in C:/Q9\tufokuServ/resources//[model]/[clothes]/ErkekKiyafet
+Found new resource eup-stream in C:/Q9\tufokuServ/resources//[model]/[clothes]/eup-stream
+Found new resource KadinKiyafet in C:/Q9\tufokuServ/resources//[model]/[clothes]/KadinKiyafet
+Found new resource lesslethal_shotgun in C:/Q9\tufokuServ/resources//[model]/[clothes]/lesslethal_shotgun
+Found new resource NUDE MALE in C:/Q9\tufokuServ/resources//[model]/[clothes]/NUDE MALE
+Resource loading for NUDE%20MALE failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[model]/[clothes]/NUDE MALE/__resource.lua.
+Found new resource Pharmacy in C:/Q9\tufokuServ/resources//[model]/[clothes]/Pharmacy
+Found new resource scully_eupui in C:/Q9\tufokuServ/resources//[model]/[clothes]/scully_eupui
+Found new resource yelek in C:/Q9\tufokuServ/resources//[model]/[clothes]/yelek
+Found new resource adalets in C:/Q9\tufokuServ/resources//[model]/[maps]/adalets
+Found new resource addontrees in C:/Q9\tufokuServ/resources//[model]/[maps]/addontrees
+Found new resource arena in C:/Q9\tufokuServ/resources//[model]/[maps]/arena
+Found new resource assets_maps in C:/Q9\tufokuServ/resources//[model]/[maps]/assets_maps
+Found new resource assets_medium_apt in C:/Q9\tufokuServ/resources//[model]/[maps]/assets_medium_apt
+Found new resource assets_schotten in C:/Q9\tufokuServ/resources//[model]/[maps]/assets_schotten
+Found new resource assets_weapons in C:/Q9\tufokuServ/resources//[model]/[maps]/assets_weapons
+Found new resource autoschool in C:/Q9\tufokuServ/resources//[model]/[maps]/autoschool
+Found new resource ballas in C:/Q9\tufokuServ/resources//[model]/[maps]/ballas
+Found new resource ballas-interior in C:/Q9\tufokuServ/resources//[model]/[maps]/ballas-interior
+Found new resource banner_anim in C:/Q9\tufokuServ/resources//[model]/[maps]/banner_anim
+Found new resource beachmotels in C:/Q9\tufokuServ/resources//[model]/[maps]/beachmotels
+Found new resource beanmachine in C:/Q9\tufokuServ/resources//[model]/[maps]/beanmachine
+Found new resource blaze_vodafone in C:/Q9\tufokuServ/resources//[model]/[maps]/blaze_vodafone
+Found new resource bowling in C:/Q9\tufokuServ/resources//[model]/[maps]/bowling
+Found new resource cardealer in C:/Q9\tufokuServ/resources//[model]/[maps]/cardealer
+Found new resource chinatown_bar in C:/Q9\tufokuServ/resources//[model]/[maps]/chinatown_bar
+Found new resource cityhall in C:/Q9\tufokuServ/resources//[model]/[maps]/cityhall
+Found new resource comedyclub in C:/Q9\tufokuServ/resources//[model]/[maps]/comedyclub
+Found new resource crafting in C:/Q9\tufokuServ/resources//[model]/[maps]/crafting
+Found new resource delivemap in C:/Q9\tufokuServ/resources//[model]/[maps]/delivemap
+Found new resource digitalden in C:/Q9\tufokuServ/resources//[model]/[maps]/digitalden
+Found new resource dons_hotel_1a in C:/Q9\tufokuServ/resources//[model]/[maps]/dons_hotel_1a
+Found new resource dpgrove in C:/Q9\tufokuServ/resources//[model]/[maps]/dpgrove
+Found new resource familiesautoshop in C:/Q9\tufokuServ/resources//[model]/[maps]/familiesautoshop
+Found new resource familiesgang in C:/Q9\tufokuServ/resources//[model]/[maps]/familiesgang
+Found new resource gabz_imp_garage in C:/Q9\tufokuServ/resources//[model]/[maps]/gabz_imp_garage
+Found new resource gabz_lost in C:/Q9\tufokuServ/resources//[model]/[maps]/gabz_lost
+Found new resource gabz_pillbox in C:/Q9\tufokuServ/resources//[model]/[maps]/gabz_pillbox
+Found new resource gabz_pillbox2 in C:/Q9\tufokuServ/resources//[model]/[maps]/gabz_pillbox2
+Found new resource garbagemap in C:/Q9\tufokuServ/resources//[model]/[maps]/garbagemap
+Found new resource gym in C:/Q9\tufokuServ/resources//[model]/[maps]/gym
+Found new resource hairstyles in C:/Q9\tufokuServ/resources//[model]/[maps]/hairstyles
+Found new resource hypnonema-map in C:/Q9\tufokuServ/resources//[model]/[maps]/hypnonema-map
+Found new resource ifruit in C:/Q9\tufokuServ/resources//[model]/[maps]/ifruit
+Found new resource ikea in C:/Q9\tufokuServ/resources//[model]/[maps]/ikea
+Found new resource importgarage in C:/Q9\tufokuServ/resources//[model]/[maps]/importgarage
+Found new resource int_genstore in C:/Q9\tufokuServ/resources//[model]/[maps]/int_genstore
+Found new resource int_lodge in C:/Q9\tufokuServ/resources//[model]/[maps]/int_lodge
+Found new resource int_motel in C:/Q9\tufokuServ/resources//[model]/[maps]/int_motel
+Found new resource lafa2k_modernhouse in C:/Q9\tufokuServ/resources//[model]/[maps]/lafa2k_modernhouse
+Found new resource larrycarshop in C:/Q9\tufokuServ/resources//[model]/[maps]/larrycarshop
+Found new resource legioncourt in C:/Q9\tufokuServ/resources//[model]/[maps]/legioncourt
+Found new resource lilseoulchurch in C:/Q9\tufokuServ/resources//[model]/[maps]/lilseoulchurch
+Found new resource lostmc in C:/Q9\tufokuServ/resources//[model]/[maps]/lostmc
+Found new resource lspdnewmap-master in C:/Q9\tufokuServ/resources//[model]/[maps]/lspdnewmap-master
+Found new resource lsrp_motel_ymap in C:/Q9\tufokuServ/resources//[model]/[maps]/lsrp_motel_ymap
+Found new resource ls_black_white in C:/Q9\tufokuServ/resources//[model]/[maps]/ls_black_white
+Found new resource ls_original in C:/Q9\tufokuServ/resources//[model]/[maps]/ls_original
+Found new resource luxuryautoshop in C:/Q9\tufokuServ/resources//[model]/[maps]/luxuryautoshop
+Found new resource madrazo in C:/Q9\tufokuServ/resources//[model]/[maps]/madrazo
+Found new resource mahkeme in C:/Q9\tufokuServ/resources//[model]/[maps]/mahkeme
+Found new resource map in C:/Q9\tufokuServ/resources//[model]/[maps]/map
+Found new resource mimisburger in C:/Q9\tufokuServ/resources//[model]/[maps]/mimisburger
+Found new resource mrpdv2 in C:/Q9\tufokuServ/resources//[model]/[maps]/mrpdv2
+Found new resource paleto247 in C:/Q9\tufokuServ/resources//[model]/[maps]/paleto247
+Found new resource paletofire in C:/Q9\tufokuServ/resources//[model]/[maps]/paletofire
+Found new resource paletogrocery in C:/Q9\tufokuServ/resources//[model]/[maps]/paletogrocery
+Found new resource paletoliquor in C:/Q9\tufokuServ/resources//[model]/[maps]/paletoliquor
+Found new resource paletomedical in C:/Q9\tufokuServ/resources//[model]/[maps]/paletomedical
+Found new resource paletomedicalv2 in C:/Q9\tufokuServ/resources//[model]/[maps]/paletomedicalv2
+Found new resource paletopd in C:/Q9\tufokuServ/resources//[model]/[maps]/paletopd
+Found new resource paletopharmacy in C:/Q9\tufokuServ/resources//[model]/[maps]/paletopharmacy
+Found new resource paletosheriff in C:/Q9\tufokuServ/resources//[model]/[maps]/paletosheriff
+Found new resource PDProps in C:/Q9\tufokuServ/resources//[model]/[maps]/PDProps
+Found new resource phxlsmc in C:/Q9\tufokuServ/resources//[model]/[maps]/phxlsmc
+Found new resource pillbox_hospital in C:/Q9\tufokuServ/resources//[model]/[maps]/pillbox_hospital
+Found new resource popsdiner in C:/Q9\tufokuServ/resources//[model]/[maps]/popsdiner
+Found new resource prisonlobbys in C:/Q9\tufokuServ/resources//[model]/[maps]/prisonlobbys
+Found new resource P_PD in C:/Q9\tufokuServ/resources//[model]/[maps]/P_PD
+Found new resource restaurant in C:/Q9\tufokuServ/resources//[model]/[maps]/restaurant
+Found new resource sandymedicalv2 in C:/Q9\tufokuServ/resources//[model]/[maps]/sandymedicalv2
+Found new resource sandysheriff in C:/Q9\tufokuServ/resources//[model]/[maps]/sandysheriff
+Found new resource shellslocked in C:/Q9\tufokuServ/resources//[model]/[maps]/shellslocked
+Found new resource sound in C:/Q9\tufokuServ/resources//[model]/[maps]/sound
+Found new resource surfboard in C:/Q9\tufokuServ/resources//[model]/[maps]/surfboard
+Found new resource taximap in C:/Q9\tufokuServ/resources//[model]/[maps]/taximap
+Found new resource Teknisyen-Pillbox in C:/Q9\tufokuServ/resources//[model]/[maps]/Teknisyen-Pillbox
+Resource loading for Teknisyen-Pillbox failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[model]/[maps]/Teknisyen-Pillbox/__resource.lua.
+Found new resource test in C:/Q9\tufokuServ/resources//[model]/[maps]/test
+Found new resource tongvahillshop in C:/Q9\tufokuServ/resources//[model]/[maps]/tongvahillshop
+Found new resource vagos in C:/Q9\tufokuServ/resources//[model]/[maps]/vagos
+Found new resource vaultroommlo in C:/Q9\tufokuServ/resources//[model]/[maps]/vaultroommlo
+Found new resource vinewoodcinema in C:/Q9\tufokuServ/resources//[model]/[maps]/vinewoodcinema
+Found new resource vineyards in C:/Q9\tufokuServ/resources//[model]/[maps]/vineyards
+Found new resource vwdlc_int_02 in C:/Q9\tufokuServ/resources//[model]/[maps]/vwdlc_int_02
+Found new resource watermod in C:/Q9\tufokuServ/resources//[model]/[maps]/watermod
+Resource loading for watermod failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[model]/[maps]/watermod/__resource.lua.
+Found new resource weazlenews in C:/Q9\tufokuServ/resources//[model]/[maps]/weazlenews
+Found new resource whiteshell in C:/Q9\tufokuServ/resources//[model]/[maps]/whiteshell
+Found new resource witcherhat in C:/Q9\tufokuServ/resources//[model]/[maps]/witcherhat
+Resource loading for witcherhat failed:
+Could not open resource metadata file C:/Q9/tufokuServ/resources//[model]/[maps]/witcherhat/__resource.lua.
+Found new resource wnews-mlo in C:/Q9\tufokuServ/resources//[model]/[maps]/wnews-mlo
+Found new resource yellowjacket in C:/Q9\tufokuServ/resources//[model]/[maps]/yellowjacket
+Found new resource ymaps in C:/Q9\tufokuServ/resources//[model]/[maps]/ymaps
+Found new resource carpack in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/carpack
+Found new resource delivery in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/delivery
+Found new resource evo9 in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/evo9
+Found new resource i8 in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/i8
+Found new resource mercxclass in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/mercxclass
+Found new resource r8ppi in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/r8ppi
+Found new resource skyline in C:/Q9\tufokuServ/resources//[model]/[cars]/[car]/skyline
+Found new resource 13fpis in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/13fpis
+Found new resource 14caprice in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/14caprice
+Found new resource 14charger in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/14charger
+Found new resource 16challenger in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/16challenger
+Found new resource 2015-Police-Mustang-GT in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/2015-Police-Mustang-GT
+Found new resource ambulance in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/ambulance
+Found new resource emsaraba in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/emsaraba
+Found new resource fbischafter in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/fbischafter
+Found new resource LSPD-Pack in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/LSPD-Pack
+Found new resource qrv in C:/Q9\tufokuServ/resources//[model]/[cars]/[emergency]/qrv
+Found new resource int_prisonfull in C:/Q9\tufokuServ/resources//[model]/[maps]/[prison]/int_prisonfull
+Found new resource prisonprops in C:/Q9\tufokuServ/resources//[model]/[maps]/[prison]/prisonprops
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for webadmin
+Instantiated instance of script FxWebAdmin.BaseServer.
+Instantiated instance of script FxWebAdmin.HttpServer+HttpServerScript.
+Started resource webadmin
+Creating script environments for monitor
+[txAdminClientLUA] Version 2.6.0 starting...
+[txAdminClientJS] Logger started
+Started resource monitor
+Creating script environments for mapmanager
+Started resource mapmanager
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for ghmattimysql
+Started resource ghmattimysql
+Creating script environments for debug
+Started resource debug
+Creating script environments for baseevents
+Started resource baseevents
+Creating script environments for chat
+Started resource chat
+Creating script environments for qb-core
+Started resource qb-core
+Creating script environments for connectqueue
+Stopping resource hardcap
+Started resource connectqueue
+Creating script environments for LegacyFuel
+Started resource LegacyFuel
+Started resource bob74_ipl
+Started resource warmenu
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for async
+Started resource async
+Creating script environments for es_extended
+Started resource es_extended
+Started resource esx_menu_default
+Started resource esx_menu_dialog
+Started resource esx_menu_list
+Creating script environments for qb-logs
+Started resource qb-logs
+Creating script environments for qb-multicharacter
+Started resource qb-multicharacter
+Creating script environments for qb-spawn
+Started resource qb-spawn
+Creating script environments for qb-inventory
+Started resource qb-inventory
+Creating script environments for qb-hud
+Started resource qb-hud
+Creating script environments for qb-weapons
+Started resource qb-weapons
+Creating script environments for qb-garages
+Started resource qb-garages
+Couldn't find resource qb-api.
+Creating script environments for qb-smallresources
+Started resource qb-smallresources
+Creating script environments for qb-weathersync
+Started resource qb-weathersync
+Creating script environments for qb-event
+Started resource qb-event
+Started resource qb-interior
+Creating script environments for qb-houses
+Started resource qb-houses
+Creating script environments for qb-vehicleshop
+Started resource qb-vehicleshop
+Creating script environments for qb-phone_new
+Started resource qb-phone_new
+Creating script environments for qb-vehiclekeys
+Started resource qb-vehiclekeys
+Creating script environments for qb-apartments
+Started resource qb-apartments
+Creating script environments for qb-storerobbery
+Started resource qb-storerobbery
+Creating script environments for qb-doorlock
+Started resource qb-doorlock
+Creating script environments for qb-weed
+Started resource qb-weed
+Creating script environments for qb-shops
+Started resource qb-shops
+Started resource qb-lockpick
+Creating script environments for qb-houserobbery
+Started resource qb-houserobbery
+Creating script environments for qb-streetraces
+Started resource qb-streetraces
+Creating script environments for qb-carwash
+Started resource qb-carwash
+Creating script environments for qb-tunerchip
+Started resource qb-tunerchip
+Creating script environments for qb-occasions
+Started resource qb-occasions
+Creating script environments for qb-drugs
+Started resource qb-drugs
+Creating script environments for qb-jewellery
+Started resource qb-jewellery
+Creating script environments for qb-bankrobbery
+Started resource qb-bankrobbery
+Creating script environments for qb-fitbit
+Started resource qb-fitbit
+Creating script environments for qb-commandbinding
+Started resource qb-commandbinding
+Creating script environments for qb-radio
+Started resource qb-radio
+Creating script environments for qb-vehiclerental
+Started resource qb-vehiclerental
+Creating script environments for qb-vehicletuning
+Started resource qb-vehicletuning
+Creating script environments for qb-garbagejob
+Started resource qb-garbagejob
+Creating script environments for qb-justice
+Started resource qb-justice
+Creating script environments for qb-afkkick
+Started resource qb-afkkick
+Creating script environments for qb-crypto
+Started resource qb-crypto
+Creating script environments for qb-skillbar
+Started resource qb-skillbar
+Creating script environments for qb-radialmenu
+Started resource qb-radialmenu
+Couldn't find resource fivem-ipl-master.
+Couldn't find resource iplLoader.
+Couldn't find resource progbars.
+Couldn't find resource territories.
+Started resource pNotify
+Started resource mythic_progbar
+Creating script environments for qb-lockpickcar
+Started resource qb-lockpickcar
+Started resource ikea
+Started resource blaze_vodafone
+Creating script environments for aik_submarina
+Started resource aik_submarina
+Creating script environments for yarn
+Started resource yarn
+Creating script environments for webpack
+Started resource webpack
+Creating script environments for screenshot-basic
+Started resource screenshot-basic
+Started resource mugshot
+Started resource np-taskbar
+Started resource panzar-scoreboard
+Creating script environments for policeform
+Started resource policeform
+Creating script environments for qb-bicyle
+Started resource qb-bicyle
+Creating script environments for qb-carthief
+Started resource qb-carthief
+Started resource qb-drift
+Creating script environments for qb-lesterjob
+Started resource qb-lesterjob
+Creating script environments for qb-location
+Started resource qb-location
+Creating script environments for qb-market
+Started resource qb-market
+Creating script environments for qb-milkman
+Started resource qb-milkman
+Creating script environments for qb-pigjob
+Started resource qb-pigjob
+Started resource qb-security
+Creating script environments for qb-sellpig
+Started resource qb-sellpig
+Creating script environments for qb-speedcamera
+Started resource qb-speedcamera
+Started resource qb-surfboard
+Creating script environments for qb-uber
+Started resource qb-uber
+Started resource submarinepatoche
+Creating script environments for tires
+Started resource tires
+Started resource carpack
+Started resource evo9
+Started resource i8
+Started resource mercxclass
+Started resource r8ppi
+Started resource skyline
+Started resource xmas
+Couldn't find resource esx-kr-advanced-shops.
+Couldn't find resource lucid_nakliye.
+Creating script environments for qb_contract
+Started resource qb_contract
+Creating script environments for qb-skillz
+Started resource qb-skillz
+Started resource car-scooter
+Creating script environments for scooterRent
+Started resource scooterRent
+Creating script environments for qb-yathheist
+Started resource qb-yathheist
+Creating script environments for qb-nuclear
+Started resource qb-nuclear
+Creating script environments for np-truckrobbery
+Started resource np-truckrobbery
+Started resource cinema-main
+Started resource drugshells
+Creating script environments for t1ger_drugbusiness
+Started resource t1ger_drugbusiness
+Started resource cassino_props
+Started resource vwdlc_int_01
+Started resource ch3_additions
+Started resource ch3_04
+Started resource ch3_08
+Started resource ch3_12
+Started resource ch3_lod
+Started resource ch3_occl
+Started resource ch3_rd1a
+Started resource cityhills_03
+Started resource cityhills_03_metadata
+Creating script environments for sloty
+Started resource sloty
+Creating script environments for ruletka
+Started resource ruletka
+Creating script environments for blackjack
+Started resource blackjack
+Creating script environments for qb-blackjack
+Started resource qb-blackjack
+Creating script environments for qb-casino
+Started resource qb-casino
+Started resource delivemap
+Started resource delivery
+Creating script environments for qb_headbag
+Started resource qb_headbag
+Creating script environments for qb_GoldCurrency
+Started resource qb_GoldCurrency
+Creating script environments for ft-repair
+Started resource ft-repair
+Creating script environments for qb_mugging
+Started resource qb_mugging
+Creating script environments for np-menu
+Started resource np-menu
+Creating script environments for t1ger_drugs
+Started resource t1ger_drugs
+Creating script environments for t1ger_mechanicjob
+Started resource t1ger_mechanicjob
+Creating script environments for qb_gym
+Started resource qb_gym
+Started resource pablito_silownia
+Started resource utk_hackdependency
+Started resource utk_fingerprint
+Creating script environments for qb_bitcoin
+Started resource qb_bitcoin
+Creating script environments for watertank
+Started resource watertank
+Creating script environments for utk_btcHack
+Started resource utk_btcHack
+Started resource xnNightclub
+Started resource datacrack
+Started resource t0sic_loadingbar
+Creating script environments for matif_headlights
+Started resource matif_headlights
+Creating script environments for qb-policealerts
+Started resource qb-policealerts
+Creating script environments for qb_atmrob
+Started resource qb_atmrob
+Creating script environments for urp-mining
+Started resource urp-mining
+Started resource map
+Creating script environments for cron
+Started resource cron
+Creating script environments for allcity_wallet
+Started resource allcity_wallet
+Creating script environments for el_business
+Started resource el_business
+Creating script environments for pk_woodcutter
+Started resource pk_woodcutter
+Creating script environments for 5q_streetfight
+Started resource 5q_streetfight
+Creating script environments for qb-strippers
+Started resource qb-strippers
+Creating script environments for qb-pizzaruns
+Started resource qb-pizzaruns
+Started resource fivem-ragdoll
+Creating script environments for qb-makeitrain
+Started resource qb-makeitrain
+Creating script environments for qb-lapdance
+Started resource qb-lapdance
+Creating script environments for qb-ktackle
+Started resource qb-ktackle
+Creating script environments for sawu_hookers
+Started resource sawu_hookers
+Creating script environments for qb-warehouses
+Started resource qb-warehouses
+Creating script environments for qb-heli
+Started resource qb-heli
+Creating script environments for qb-pursit
+Started resource qb-pursit
+Started resource PushOver
+Creating script environments for Frag-weed
+Started resource Frag-weed
+Creating script environments for ms-fakeplate
+Started resource ms-fakeplate
+Creating script environments for qb-carbomb
+Started resource qb-carbomb
+Started resource ring
+Creating script environments for qb_borrmaskin
+Started resource qb_borrmaskin
+Creating script environments for meta_libs
+Started resource meta_libs
+Started resource drones_stream
+Creating script environments for drones
+Started resource drones
+Creating script environments for 5q-trains
+Started resource 5q-trains
+Creating script environments for qb-copmask
+Started resource qb-copmask
+Creating script environments for nerv_ads
+Started resource nerv_ads
+Started resource qb-name
+Creating script environments for InteractSound
+Started resource InteractSound
+Creating script environments for qb-tacos
+Started resource qb-tacos
+Creating script environments for bodycam
+Started resource bodycam
+Creating script environments for dpemotes
+Started resource dpemotes
+Creating script environments for carry
+Started resource carry
+Creating script environments for sigara-bong
+Started resource sigara-bong
+Creating script environments for rdrp_rccars
+Started resource rdrp_rccars
+Creating script environments for spectatelu
+Started resource spectatelu
+Creating script environments for nerv_dark
+Started resource nerv_dark
+Creating script environments for qb-tattooshop_1
+Started resource qb-tattooshop_1
+Creating script environments for qb-customs
+Started resource qb-customs
+Creating script environments for qb_bandana
+Started resource qb_bandana
+Creating script environments for kwk-boombox
+Started resource kwk-boombox
+Started resource progressbar
+Creating script environments for og-fishing
+Started resource og-fishing
+Creating script environments for op-guns
+Started resource op-guns
+Creating script environments for oxy-runs-qbus
+Started resource oxy-runs-qbus
+Creating script environments for 5q-dumpsters
+Started resource 5q-dumpsters
+Creating script environments for 5q-nightclub
+Started resource 5q-nightclub
+Started resource cokelab
+Creating script environments for lotto
+Started resource lotto
+Creating script environments for mdt
+Started resource mdt
+Creating script environments for Frag-gunheist
+Started resource Frag-gunheist
+Creating script environments for qb-cokeruns
+Started resource qb-cokeruns
+Creating script environments for bb-dices
+Started resource bb-dices
+Creating script environments for qb-gangs
+Started resource qb-gangs
+Creating script environments for brakediscs
+Started resource brakediscs
+Creating script environments for brky-trash
+Started resource brky-trash
+Started resource carcontrol
+Creating script environments for carremote
+Started resource carremote
+Creating script environments for chairbed
+Started resource chairbed
+Started resource ChairBedSystem
+Started resource dashcam
+Started resource DeathCam
+Started resource dpclothing
+Started resource fivemturk-npcfix
+Started resource generic_texture_renderer_gfx
+Started resource handsup
+Creating script environments for harybo_litter
+Started resource harybo_litter
+Creating script environments for loaf_tv
+
+
+===========================================
+[loaf_tv] authorized.
+===========================================
+
+Started resource loaf_tv
+Creating script environments for lux_vehcontrol
+Started resource lux_vehcontrol
+Started resource mythic_notify
+Started resource npclocation
+Started resource npcs
+Started resource porth_ai
+Started resource progressBars
+Started resource Radargun
+Started resource sad-smoke
+Creating script environments for RA1D3R_L0GSYSTEM
+Started resource RA1D3R_L0GSYSTEM
+Started resource securitycams
+Creating script environments for spotlight
+Started resource spotlight
+Creating script environments for tab
+Started resource tab
+Started resource uates
+Started resource vir-deathscreen
+Creating script environments for qb-trucker
+Started resource qb-trucker
+Creating script environments for qb-tow
+Started resource qb-tow
+Creating script environments for qb-crafting
+Started resource qb-crafting
+Creating script environments for qb-taxi
+Started resource qb-taxi
+Creating script environments for qb-news
+Started resource qb-news
+Creating script environments for qb-clothing
+Started resource qb-clothing
+Creating script environments for qb-scrapyard
+Started resource qb-scrapyard
+Creating script environments for qb-recycle
+Started resource qb-recycle
+Creating script environments for qb-cityhall
+Started resource qb-cityhall
+Creating script environments for qb-pawnshop
+Started resource qb-pawnshop
+Creating script environments for qb-admin
+Started resource qb-admin
+Creating script environments for qb-scoreboard
+Started resource qb-scoreboard
+Creating script environments for qb-diving
+Started resource qb-diving
+Creating script environments for qb-lapraces
+Started resource qb-lapraces
+Creating script environments for qb-traphouses
+Started resource qb-traphouses
+Creating script environments for qb-hotdogjob
+Started resource qb-hotdogjob
+Started resource qb-keyminigame
+Creating script environments for qb-pings
+Started resource qb-pings
+Creating script environments for qb-moneysafe
+Started resource qb-moneysafe
+Started resource assets_maps
+Started resource assets_medium_apt
+Started resource eup-stream
+Started resource lesslethal_shotgun
+Started resource yelek
+Started resource ErkekKiyafet
+Started resource Pharmacy
+Started resource KadinKiyafet
+Started resource assets_schotten
+Started resource assets_weapons
+Started resource addonweapons
+Creating script environments for koil-debug
+Started resource koil-debug
+Creating script environments for interact-sound
+Started resource interact-sound
+Creating script environments for diceroll
+Started resource diceroll
+Creating script environments for safecracker
+Started resource safecracker
+Creating script environments for 3dme
+Started resource 3dme
+Creating script environments for 3doo
+Started resource 3doo
+Started resource loadingscreen
+Creating script environments for hospital
+Started resource hospital
+Creating script environments for police
+Started resource police
+Creating script environments for policeradar
+Started resource policeradar
+Creating script environments for els-plus
+Instantiated instance of script GHMatti.Http.RequestInternal.
+Instantiated instance of script GHMatti.Http.Request.
+ELS-Plus: Welcome to ELS+ 0.2.6.0 for FiveM
+ELS-Plus: Setting Game time is 10465
+Instantiated instance of script ELS_Server.ELSServer.
+Started resource els-plus
+Creating script environments for prison
+Started resource prison
+Started resource hackgame
+Creating script environments for banking
+Started resource banking
+Creating script environments for notes
+Started resource notes
+Couldn't find resource tokovoip_script.
+Creating script environments for noshuff
+Started resource noshuff
+Started resource pillbox_hospital
+Started resource mrpdv2
+Started resource digitalden
+Started resource legioncourt
+Started resource importgarage
+Started resource beanmachine
+Started resource vineyards
+Started resource yellowjacket
+Started resource tongvahillshop
+Started resource sandysheriff
+Started resource sandymedicalv2
+Started resource lilseoulchurch
+Started resource cityhall
+Started resource vinewoodcinema
+Started resource garbagemap
+Started resource addontrees
+Started resource mimisburger
+Started resource popsdiner
+Started resource autoschool
+Started resource luxuryautoshop
+Started resource familiesautoshop
+Started resource paletosheriff
+Started resource paletoliquor
+Started resource paletogrocery
+Started resource paletofire
+Started resource paletomedicalv2
+Started resource paletopharmacy
+Started resource larrycarshop
+Couldn't find resource addon_vest.
+Started resource hairstyles
+Couldn't find resource ambulance_brancard.
+Creating script environments for hypnonema
+Instantiated instance of script Hypnonema.Server.ServerScript.
+[Hypnonema] [19:48] [INFO] Using filmpie as command name. Type /filmpie to open the NUI window.
+Started resource hypnonema
+Creating script environments for playerhostage
+Started resource playerhostage
+Started resource int_prisonfull
+Started resource prisonprops
+Started resource Liberty-pack
+Stopping resource t1ger_mechanicjob
+Creating script environments for t1ger_mechanicjob
+Started resource t1ger_mechanicjob
+Stopping resource qb-lockpickcar
+Creating script environments for qb-lockpickcar
+Started resource qb-lockpickcar
+Argument count mismatch (passed 1, wanted 2)
+Argument count mismatch (passed 4, wanted 3)
+No such command sv_useDirectListing.
+No such command blips.
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+[ERROR] connect ETIMEDOUT
+[txAdminClientLUA] Threads and commands set up. All Ready.
+[el_business] Syncing businesses from database
+[el_business] Started!
+[el_business] !!WARNING!! PLEASE DON'T RESTART THIS SCRIPT, USE THE BUILTIN COMMAND /business reload TO RELOAD DATA FROM DATABASE
+[el_business] Performing version check...
+Lab entry has been set to location: 1
+
+
+########################
+## RepairKit Resource
+##
+## Current Version: 3.0
+## Newest Version: 3.1
+##
+## Outdated
+## Please check the GitHub and download the last update
+## https://github.com/clementinise/esx_repairkit/releases/latest
+########################
+
+
+ELS-Plus: Total ELS Resources: 0
+ELS-Plus: Checking for ELS+ Updates in 5
+Started map fivem-map-hipster
+Started resource fivem-map-hipster
+Authenticating with Nucleus...
+server thread hitch warning: timer interval of 4521 milliseconds
+
+ANIMASYON (dpemotes) güncel. (173)
+[Error]	nil
+[mysql-async] Database server connection established.
+[el_business] Synced 2 business(es) from database
+[el_business] Version check failed!
+        fff                          
+  cccc ff   xx  xx     rr rr    eee  
+cc     ffff   xx       rrr  r ee   e 
+cc     ff     xx   ... rr     eeeee  
+ ccccc ff   xx  xx ... rr      eeeee 
+                                     
+Authenticated with cfx.re Nucleus: https://deathhunterreact-6p7kkd.users.cfx.re/
+ELS-Plus: Checking for ELS+ Updates in 4
+ELS-Plus: Checking for ELS+ Updates in 3
+ELS-Plus: Checking for ELS+ Updates in 2
+ELS-Plus: Checking for ELS+ Updates in 1
+ESX Bike Rental started v5.0
+~y~QB-GARAGE~w~ - ALL VEHICLES ARE RESTORED TO GARAGE!
+server thread hitch warning: timer interval of 541 milliseconds
+QUEUE: [2Thoughts] CH3D[steam:110000114f5c56d] was placed 1/1 in queue
+QUEUE: [2Thoughts] CH3D[steam:110000114f5c56d] is loading into the server
+server thread hitch warning: timer interval of 265 milliseconds
+[qb-core:LOG] [2Thoughts] CH3D PLAYER SAVED!
+[qb-core] [2Thoughts] CH3D (Citizen ID: MLD16496) has succesfully loaded!
+[qb-core:LOG] [2Thoughts] CH3D PLAYER SAVED!
+[qb-core] [2Thoughts] CH3D (Citizen ID: MLD16496) has succesfully loaded!
+Auto density updated :0.5
+Dropped: [2Thoughts] CH3D
